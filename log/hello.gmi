@@ -1,0 +1,4 @@
+# First post
+I made a gemini capsule.
+
+=> log/hello.gmi 20201-10-07
